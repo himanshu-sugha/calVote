@@ -123,7 +123,7 @@ sequenceDiagram
 <summary>🔐 Zero-Knowledge Proof System</summary>
 
 Our system combines Calimero's privacy infrastructure with Starknet's STARK proofs:
-
+You can click on options to open them
 1. **Vote Commitment**
    ```cairo
    #[storage]
