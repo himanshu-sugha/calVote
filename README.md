@@ -120,10 +120,10 @@ sequenceDiagram
 ## 🔒 Technical Deep Dive
 
 <details>
-<summary>🔐 Zero-Knowledge Proof System</summary>
+<summary>🔐 Zero-Knowledge Proof System  ---------You can click on options to open them</summary>
 
 Our system combines Calimero's privacy infrastructure with Starknet's STARK proofs:
-You can click on options to open them
+
 1. **Vote Commitment**
    ```cairo
    #[storage]
