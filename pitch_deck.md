@@ -224,9 +224,5 @@ graph TB
 
 ## 📞 Contact
 
-[Your Name]
-CEO, Privacy-Preserving Voting System
-email@domain.com
-+1 (XXX) XXX-XXXX
+himanshusugha@gmail.com
 
-[Website] | [GitHub] | [Twitter]
